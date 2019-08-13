@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "Great Neck Burger",
+      "description": "Great Burger with Pastrami",
+      "image": "https://i0.wp.com/angsarap.net/wp-content/uploads/2012/09/pastrami-burger.jpg",
+      "id": 12
+    },
+    {
+      "name": "Ben's Burger",
+      "description": "A juicy ass burger smothered in BBQ Sauce",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81RXbw8FTnL._SL1500_.jpg",
+      "id": 13
     }
   ]
 }
